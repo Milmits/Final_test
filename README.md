@@ -20,6 +20,5 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/mlnkucuk) to help it improve!</i>
 
 </div>
